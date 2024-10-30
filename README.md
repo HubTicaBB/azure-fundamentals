@@ -54,3 +54,24 @@ distributes responsibility between the cloud provider and the consumer.
 
 The following diagram highlights how the Shared Responsibility Model informs who is responsible for what, depending on 
 the cloud service type.
+
+| Responsibility                        | SaaS      | PaaS      | IaaS      | On-prem   |   
+| ------------------------------------- | --------- | --------- | --------- | --------- |
+| Information and data                  | You       | You       | You       | You       |
+| Devices (Mobile and PCs               | You       | You       | You       | You       |
+| Accounts and identities               | You       | You       | You       | You       |
+| Identity and directory infrastructure | Shared    | Shared    | You       | You       |
+| Applications                          | Microsoft | Shared    | You       | You       |
+| Network controls                      | Microsoft | Shared    | You       | You       |
+| Operating system                      | Microsoft | Microsoft | You       | You       |
+| Physical hosts                        | Microsoft | Microsoft | Microsoft | You       |
+| Physical network                      | Microsoft | Microsoft | Microsoft | You       |
+| Physical datacenter                   | Microsoft | Microsoft | Microsoft | You       |
+
+When using a cloud provider, you'll always be responsible for:
+- The information and data stored in the cloud
+- Devices that are allowed to connect to your cloud (cell phones, computers, and so on)
+- The accounts and identities of the poeple, services, and devices within your organization
+
+
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 |
