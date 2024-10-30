@@ -73,5 +73,15 @@ When using a cloud provider, you'll always be responsible for:
 - Devices that are allowed to connect to your cloud (cell phones, computers, and so on)
 - The accounts and identities of the poeple, services, and devices within your organization
 
+The cloud provider is always responsible for:
+- The physical datacenter
+- The physical network
+- The physical hosts
+
+Your service model will determine responsibility for things like:
+- Operatin gsystem
+- Network controls
+- Applications
+- Identity and infrastructure
 
 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 |
