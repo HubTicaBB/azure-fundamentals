@@ -118,4 +118,4 @@ The following table highlights a few key comparative aspects between the cloud m
 | Applications can be quickly provisioned and deprovisioned | Data is not collocated with other organizations' data             | Organizations determine where to run their applications |
 
 
-123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 |
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 |
