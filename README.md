@@ -1,6 +1,6 @@
 # Microsoft Azure Fundamentals: Describe cloud concepts
 
-# 1 Describe Cloud Computing
+# 1 Cloud Computing
 
 > Cloud computing is the delivery of computing services over the internet.
 
@@ -141,3 +141,86 @@ models.
 | Applications can be quickly provisioned and deprovisioned             | Data is not collocated with other organizations' data              | Organizations determine where to run their applications          |
 | Organizations pay only for what they use                              | Hardware must be purchased for startup and maintenance             | Organizations control seurity, compliance, or legal requirements |
 | Organizations don't have complete control over resources and security | Organizations are responsible for hardware maintenance and updates |
+
+### 1.2.4 Multi-cloud
+
+A fourth, and increasingly likely scenario is  a multi-cloud scenario. In a
+multi-cloud scenario, you use multiple public cloud providers. Maybe you use
+different features from different cloud providers. Or maybe you started your
+cloud journey with one provider and are in the process of migrating to a
+different provider. Regardless, in a multi-cloud environment you deal with two
+(or more) public cloud provideers and manage resources and security in both 
+environments.
+
+### 1.2.5 Azure Arc
+
+Azure Arc is a set of technologies that helps manage your cloud environment.
+Azure Arc can help manage your cloud environment, whether it's a public cloud
+solely on Azure, a private cloud in your datacenter, a hybrid configuration, or
+even a multi-cloud environment running on multiple cloud providers at once.
+
+### 1.2.6 Azure VMware Solution
+
+What if you're already established with VMware in a private cloud environment
+but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you
+run your VMware workloads in Azure with seamless integration and scalability.
+
+## 1.3 The Consumption-based model
+
+When comparing IT infrastructure models, there are two types of expenses to
+consider:
+- Capital expenditure (CapEx) and
+- Operational Expenditure (OpEx)
+
+### 1.3.1 Capital Expenditure (CapEx)
+
+CapEx is typically a one-time, up-front expenditure to purchase a secure 
+tangible resources. A new building, repaving the parking lot, building a 
+datacenter, or buying a company vehicle are examples of CapEx.
+
+### 1.3.2 Operational Expenditure (OpEx)
+
+In contrast, OpEx is spending money on services or products over time. Renting a
+convention center, leasing a company vehicle, or signing up for cloud services 
+are all exam
+123456789 123456789 123456789 123456789 123456789 123456789 123456789 123456789 X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
